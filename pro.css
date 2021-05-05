@@ -1,0 +1,43 @@
+body{text-align: justify;
+    margin: 0%;
+    background-color: rgb(224, 165, 165);
+
+}
+
+
+#form{
+    margin-top: 5px;
+    margin-left: 30%;
+    padding: 3px;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    background-color: rgb(228, 124, 202);
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+
+#submit{
+    margin-left: 25%;
+    background-color: rgb(98, 11, 133) ;
+    color: rgb(200, 200, 224);
+}
+
+table{
+    display:border;
+    margin-top: 20px;
+    margin-left:25%;
+    padding: 3px;
+    text-align: center;
+    color: rgb(87, 6, 192);
+    background-color: rgb(201, 93, 174);
+    
+    
+
+}
